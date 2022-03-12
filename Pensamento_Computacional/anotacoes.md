@@ -1,4 +1,4 @@
-# Anotações sobre o modulo de Pensamento Computacional
+# Anotações sobre o módulo: Pensamento Computacional
 
 #### Decomposição
 - Dividir um problema complexo em pequenas partes, a fim de soluciona-klas com mais facilidades.
