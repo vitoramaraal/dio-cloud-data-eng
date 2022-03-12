@@ -1,6 +1,6 @@
-# Repositorio de tarefas e anotações do curso de Cloud Data Engineer
+# Repositório de tarefas e anotações do curso de Cloud Data Engineer
 
-Aqui se encontra anotações e tarefas do bootcamp.
+Nesse repositório contém anotações e tarefas do bootcamp.
 
 - Pensamentos computacionais
 - Git/GitHub
